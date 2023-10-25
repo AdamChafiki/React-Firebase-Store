@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa53335a.css",
+    "main.js": "/static/js/main.86866878.js",
+    "static/media/amazon-ar21.svg": "/static/media/amazon-ar21.2082e8090c92b1749c9de1f1cd68d696.svg",
+    "index.html": "/index.html",
+    "main.aa53335a.css.map": "/static/css/main.aa53335a.css.map",
+    "main.86866878.js.map": "/static/js/main.86866878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa53335a.css",
+    "static/js/main.86866878.js"
+  ]
+}
